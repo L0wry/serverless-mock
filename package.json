@@ -1,0 +1,23 @@
+{
+  "name": "serverlessmock",
+  "version": "1.0.0",
+  "description": "testing out serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "serverlessmock"
+  },
+  "keywords": [
+    "mock",
+    "serverless"
+  ],
+  "author": "matt lowry",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.171.0",
+    "claudia-api-builder": "^2.5.1"
+  }
+}

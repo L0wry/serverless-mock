@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "serverlessmock-executor",
+    "name": "serverlessmock",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "paz7l1bcpi",
+    "module": "index"
+  }
+}
